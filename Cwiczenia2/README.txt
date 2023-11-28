@@ -1,1 +1,1 @@
-Wywoływanie SNPów - algorytmy oraz ich implementacja
+Mapowanie do genomu referencyjnego; algorytmy oraz ich implementacja
