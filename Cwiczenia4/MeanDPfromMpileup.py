@@ -16,7 +16,7 @@ for line in a:
         C1 =list( raw[i] for i in Cols )
         C = [int(i) for i in C1]
         m = float(sum(C)) / len(C)
-        print(str(m))
+#        print(str(m)) # jeżeli chcesz zrobić rozkład wartości DP, to drukuj
         DPs.append(m)
 a.close()
 
