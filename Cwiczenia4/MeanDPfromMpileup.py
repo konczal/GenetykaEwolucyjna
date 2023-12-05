@@ -2,7 +2,7 @@ import sys
 import statistics
 
 inF = sys.argv[1]
-nSamp = int(sys.argv[4])
+nSamp = int(sys.argv[2])
 
 #Columns used to filter by DP
 #4,7,10,13,16,19,22,25,etc.
